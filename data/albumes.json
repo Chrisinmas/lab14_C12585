@@ -1,0 +1,74 @@
+[
+  {
+    "titulo": "Thriller",
+    "artista": "Michael Jackson",
+    "genero": "Pop",
+    "anio": 1982,
+    "sello": "Epic",
+    "pistas": 9,
+    "imagen": "thriller.avif",
+    "slug": "thriller",
+    "resumen": "El álbum más vendido de la historia.",
+    "descripcion": "Álbum de Michael Jackson que redefinió la música pop de los años 80. Incluye éxitos como Beat It, Billie Jean y la canción homónima con su icónico videoclip."
+  },
+  {
+    "titulo": "Back in Black",
+    "artista": "AC/DC",
+    "genero": "Rock",
+    "anio": 1980,
+    "sello": "Atlantic",
+    "pistas": 10,
+    "imagen": "back-in-black.avif",
+    "slug": "back-in-black",
+    "resumen": "Uno de los álbumes de rock más vendidos de todos los tiempos.",
+    "descripcion": "Publicado en 1980 tras la muerte de Bon Scott, este álbum marcó la llegada de Brian Johnson como vocalista. Incluye temas como You Shook Me All Night Long y Hells Bells."
+  },
+  {
+    "titulo": "The Dark Side of the Moon",
+    "artista": "Pink Floyd",
+    "genero": "Rock Progresivo",
+    "anio": 1973,
+    "sello": "Harvest",
+    "pistas": 10,
+    "imagen": "dark-side-of-the-moon.avif",
+    "slug": "dark-side-of-the-moon",
+    "resumen": "Un viaje conceptual por la mente humana.",
+    "descripcion": "Obra maestra de Pink Floyd que explora temas como el tiempo, el dinero y la locura. Permaneció 741 semanas en el Billboard 200, un récord histórico."
+  },
+  {
+    "titulo": "Rumours",
+    "artista": "Fleetwood Mac",
+    "genero": "Rock",
+    "anio": 1977,
+    "sello": "Warner Bros.",
+    "pistas": 11,
+    "imagen": "rumours.avif",
+    "slug": "rumours",
+    "resumen": "El álbum más influyente del soft rock de los 70.",
+    "descripcion": "Grabado en medio de las turbulentas relaciones personales de la banda, Rumours ganó el Grammy al Álbum del Año en 1978. Incluye Go Your Own Way, Dreams y The Chain."
+  },
+  {
+    "titulo": "Abbey Road",
+    "artista": "The Beatles",
+    "genero": "Pop",
+    "anio": 1969,
+    "sello": "Apple",
+    "pistas": 17,
+    "imagen": "abbey-road.avif",
+    "slug": "abbey-road",
+    "resumen": "El último álbum grabado por The Beatles en estudio.",
+    "descripcion": "Considerado una obra maestra, Abbey Road incluye Come Together, Something y el famoso medley del lado B. La foto de la portada en el cruce peatonal es icónica en la historia del rock."
+  },
+  {
+    "titulo": "Nevermind",
+    "artista": "Nirvana",
+    "genero": "Grunge",
+    "anio": 1991,
+    "sello": "DGC",
+    "pistas": 12,
+    "imagen": "nevermind.avif",
+    "slug": "nevermind",
+    "resumen": "El álbum que llevó el grunge al mainstream mundial.",
+    "descripcion": "Segundo álbum de Nirvana que catapultó a la banda a la fama mundial. Smells Like Teen Spirit se convirtió en el himno de una generación. Vendió más de 30 millones de copias."
+  }
+]
