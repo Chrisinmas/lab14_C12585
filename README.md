@@ -15,7 +15,7 @@ API REST para administrar el catálogo de álbumes de una tienda de música.
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/Chrisinmas/Lab14_DiscoStore_C12585.git
+git clone https://github.com/Chrisinmas/Lab14_C12585.git
 cd Lab14_C12585
 ```
 
