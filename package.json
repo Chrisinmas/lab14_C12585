@@ -1,0 +1,23 @@
+{
+  "name": "lab14-discostore-c12585",
+  "version": "1.0.0",
+  "description": "API REST DiscoStore — Catálogo de Álbumes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "seed": "node data/seed.js"
+  },
+  "author": "Christopher C12585",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^12.11.1",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
