@@ -4,7 +4,7 @@ import * as albumes from '../../data/albumes.js'
 const searchSchema = z.object({
   text: z.string()
     .trim()
-    .min(1, 'La búsqueda no puede estar vacía')
+    .min(3, 'La búsqueda debe tener al menos 3 caracteres')
     .max(100, 'La búsqueda es demasiado larga')
 })
 
